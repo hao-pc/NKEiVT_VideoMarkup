@@ -22,7 +22,9 @@
 
 Проект был написан, используя torch 2.4.1, OpenCV 4.9.0, Python 3.12.X для Всероссийского хакатона Цифрового прорыва кейса «Разметка видеоконтента»
 
-В release находятся исходники сайта, в YOLO.ipynb детекция, в Hacks_AI_2.ipynb транскрибация, в GraphCommit.ipynb анализ звукового ряда
+В release находятся исходники сайта, в vseros_bot.zip исходники тг-бота 
+
+В YOLO.ipynb детекция, в Hacks_AI_2.ipynb транскрибация, в GraphCommit.ipynb анализ звукового ряда
 
 Демо проекта: https://coldboy.ru/nkeivt_hackaton/
 
